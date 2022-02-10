@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/junhoyeo/Aheui-3d#readme",
   "dependencies": {
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "obelisk.js": "^1.2.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
